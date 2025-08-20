@@ -1,5 +1,5 @@
 ## Welcome to the Cyber-Physical Systems Research Group 
-[Luleå University of Technology](https://www.ltu.se)
+### [Luleå University of Technology](https://www.ltu.se)
 
 Our research spans three key areas advancing automation, digitalization, and distributed computing:
 

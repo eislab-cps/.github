@@ -1,12 +1,9 @@
-## Hi there 👋
+Welcome to the Cyber-Physical Systems Research Group - [Luleå University of Technology](https://www.ltu.se)
 
-<!--
+Our research spans three key areas advancing automation, digitalization, and distributed computing:
 
-**Here are some ideas to get you started:**
+**Systems of Systems**: Architecting complex automation solutions using microsystem and microservice paradigms. Our research group is the principal contributors to the [Eclipse Arrowhead]([link](https://arrowhead.eu/eclipse-arrowhead-2/) project.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Distributed Systems**: Blockchain technologies, smart contracts research, including the ScaleGraph blockchain, and cloud computing research, including the development of [ColonyOS]([link](https://colonyos.io)) for distributed computing across cloud and edge environments,
+
+**Electronics and Software Integration**: From high-density circuit board interconnects to chiplet design and computational hardware integration within microsystem/microservice frameworks.
